@@ -1,8 +1,6 @@
 # Sample-_SuperStore_dashboard
 This repository contains my first Power BI dashboard project, Sample Superstore. The dashboard provides insights into sales, profit, and customer trends using interactive visualizations.
 
-## Data Used
-"C:\Users\Dell\OneDrive\Desktop\GitHub\Sample_Superstore_Data.csv"
 ## (KPI) Questions
 ### The dashboard answers the following business questions:
 
